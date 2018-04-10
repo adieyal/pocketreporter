@@ -27,7 +27,6 @@ var cache_files = [
     "js/views/settings.js",
     "js/views/footer.js",
 
-    "js/vendor",
     "js/vendor/backbone.stickit-0.9.2.js",
     "js/vendor/backbone-1.3.3-min.js",
     "js/vendor/bootstrap-3.3.1.min.js",
